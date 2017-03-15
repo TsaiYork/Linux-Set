@@ -6,6 +6,9 @@
     set nu
     set cursorline
     set ruler
+    set bg=dark
+    set tabstop=4
+    set shiftwidth=4
     
     filetype indent on
     
